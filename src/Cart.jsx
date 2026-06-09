@@ -9,7 +9,7 @@ const MENU_ITEMS = [
   { id: 4, name: 'Veggie Delight',   price: 600 },
   { id: 5, name: 'Pepperoni',        price: 700 },
   { id: 6, name: 'Four Cheese',      price: 850 },
-  { id: 7, name: 'Spicy Beef',       price: 780 },
+  { id: 7, name: 'Spicy Mutton',       price: 780 },
   { id: 8, name: 'Margherita',       price: 550 },
 ]
 
